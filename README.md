@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hello | Hola 👋
+> Hola Mundo! Soy Duván, arquitecto y analista de datos con un profundo amor por la información y las decisiones basadas en datos en ámbitos urbanos, de gobernanza y gestión de proyectos. Soy una persona creativa, curioso por el aprendizaje y con un alto enfoque en organización y planificación.
 <!--
 **duvanroarq/duvanroarq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
