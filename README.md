@@ -1,3 +1,5 @@
+![Portada](PortadaLinkedIn.jpg)
+
 # Hello world! 👋| ¡Hola Mundo! 👋
 ## I am Duvan Robayo Roa | Soy Duván Robayo Roa 
 
