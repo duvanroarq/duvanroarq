@@ -3,6 +3,7 @@
 # Hello world! 👋| ¡Hola Mundo! 👋
 ## I am Duvan Robayo Roa | Soy Duván Robayo Roa 
 
+![About](About-me.jpg)
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
